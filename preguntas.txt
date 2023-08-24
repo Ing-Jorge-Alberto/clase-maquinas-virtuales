@@ -1,0 +1,9 @@
+Por que un lenguaje de programación solo puede utilizarse en algunos sistemas operativos y en otros no?
+R= Por la 
+Que tipo de maquina virtual soporta virtualBo?
+R= hypervisor
+Que función cummple el hypervisor en la virtualización?
+R= Permite al host dar soporte a varias maquinas virtuales.
+Si tengo varias maquinas virtuales instaladas y una se rompe, esto afecta a las demas? por que?
+R= No, por que la virtualización es independiente.
+
